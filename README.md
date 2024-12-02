@@ -3,7 +3,7 @@
 🌱 I’m currently learning various programming languages and deepening my knowledge in cybersecurity.
 💞️ I’m looking to collaborate on projects related to AI and data security.
 📫 How to reach me: You can reach me via email at zelihaklcky@gmail.com or on LinkedIn.
-😄 Pronouns: he/him (eğer bu doğru değilse, lütfen düzet.)
+😄 Pronouns: him 
 ⚡ Fun fact: I love spending long hours in front of the computer, whether it's coding or gaming!
 
 <!---
